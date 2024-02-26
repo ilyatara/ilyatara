@@ -1,9 +1,7 @@
-# About me
+Hi there! My name is Ilya Tarasov and I'm a beginner QA Automation Engineer.
 
-Hello! My name is Ilya Tarasov and I'm a manual QA with three years of experience and a beginner Automation QA.
+My current stack is: Python, Selenium/Selene, Appium, PyTest, Allure.
 
-For now, I'm focusing on:
-- Writing autotests with Python + Selenium/Selene (UI), Appium (Mobile)
-- Improving my knowledge of JavaScript
-
-You can reach me by email: qailyatarasov@gmail.com
+You can contact me via:
+- Email: qa.ilya.tarasov@gmail.com
+- Telegram: [@ilyatrsv](https://t.me/ilyatrsv)
